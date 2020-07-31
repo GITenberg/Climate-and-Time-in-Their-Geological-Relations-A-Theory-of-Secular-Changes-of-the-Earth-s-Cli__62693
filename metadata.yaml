@@ -1,0 +1,30 @@
+_repo: Climate-and-Time-in-Their-Geological-Relations-A-Theory-of-Secular-Changes-of-the-Earth-s-Cli__62693
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Croll, James
+    birthdate: 1821
+    deathdate: 1890
+    gutenberg_agent_id: '45193'
+    url: http://www.gutenberg.org/2009/agents/45193
+    wikipedia: https://en.wikipedia.org/wiki/James_Croll
+description: ''
+gutenberg_issued: '2020-07-18'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '62693'
+  lccn: '06041304'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'QE'
+- !lcsh 'Geological time'
+- !lcsh 'Glacial epoch'
+- !lcsh 'Climatology'
+- !lcsh 'Ocean currents'
+- GITenberg
+title: "Climate and Time in Their Geological Relations\r\nA Theory of Secular Changes\
+  \ of the Earth's Climate"
+url: http://www.gutenberg.org/ebooks/62693
